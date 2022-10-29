@@ -1,1 +1,2 @@
-console.log("ik ben de eerst");
+console.log("ik ben de eerste");
+console.log("nog wat code");
